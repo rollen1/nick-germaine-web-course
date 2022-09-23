@@ -1,0 +1,23 @@
+body {
+    background: rgb(255, 200, 100, 0.5);
+    color:#222222;
+}
+
+body > header > h3 {
+    color: red;
+}
+
+h3 {
+    background-color: white;
+}
+
+body h3 {
+    color: #f00;
+    margin: 10px;
+    margin-top: 20px;
+    padding: 50px;
+}
+
+h1, h3 {
+    float:left;
+}
